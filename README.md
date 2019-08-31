@@ -3,5 +3,6 @@ The source code for a very fun project! Using Arduino and many physical componen
 
 Included is the source code, PowerPoint presentation, and circuit diagram. 
 
-#Video Demo:
+Video Demo:
+
 https://www.youtube.com/watch?v=F7LMoaXS20Q
